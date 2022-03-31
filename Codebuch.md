@@ -2,11 +2,11 @@
 
 **id**
 eindeutige Codierung des/der Teilnehmer/in, von 1-137</p>
-*alle folgenden erhobenen Daten sind nach den Angaben der befragten Personen selbst.*
-**instagram**
+*alle folgenden erhobenen Daten sind nach den Angaben der befragten Personen selbst.*</p>
+**instagram**</p>
 Benutzt die Person Instagram? </p>
 1 = ja </p>
-2 = nein 
+2 = nein </p>
 **time**
 Zeit, wie lange pro Tag die Person auf Instagram ist. </p>
 1 = weniger als 30 Minuten </p>
